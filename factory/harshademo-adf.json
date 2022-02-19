@@ -1,0 +1,9 @@
+{
+	"name": "harshademo-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bce8d4b8-7d7f-48e7-a354-ee5d942216bc",
+		"tenantId": "30615f82-866d-4f05-ad17-b8ee583eef26"
+	}
+}
